@@ -1,0 +1,100 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "installed-steam",
+    "name": "installed-steam",
+    "abstract": "A list of modules installed on the steam KSP instance",
+    "author": [
+        "acornett"
+    ],
+    "version": "2021.05.06.05.37.45",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "HideEmptyTechNodes"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "SpaceY-Lifters"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "SpaceY-Expanded"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "KerbalAtomics-NTRModSupport"
+        }
+    ],
+    "recommends": [],
+    "suggests": [],
+    "kind": "metapackage",
+    "release_date": "2021-05-06T13:37:45.9154999-04:00"
+}
